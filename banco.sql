@@ -1,4 +1,4 @@
-CREATE TABLE dados (
+CREATE TABLE dados_user (
     AlunoID int,
     Nome varchar(50),
     Sobrenome varchar(50),
